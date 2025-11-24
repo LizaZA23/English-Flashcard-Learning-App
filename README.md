@@ -17,7 +17,7 @@
 
 #### 1) Клонирование репозитория
 ```bash
-git clone https://github.com/yourusername/english-flashcard-master.git
+git clone [https://github.com/yourusername/english-flashcard-master.git](https://github.com/LizaZA23/English-Flashcard-Learning-App.git)
 cd english-flashcard-master
 ```
 
@@ -112,7 +112,7 @@ mvn clean install
 
 ## Ссылка на опросник Google Forms
 ```
-https://docs.google.com/forms/d/e/your-flashcard-app-feedback-form/viewform
+[https://docs.google.com/forms/d/e/your-flashcard-app-feedback-form/viewform](https://docs.google.com/forms/d/e/1FAIpQLSeB-RNmXX1AroAFp32KHDSFklPsEwn_dSIvgaGRxoM_CqTG1g/viewform?usp=dialog)
 ```
 
 ---
